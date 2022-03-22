@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-polymorph-master.flake = false;
+  inputs.src-polymorph-master.ref   = "refs/heads/master";
   inputs.src-polymorph-master.owner = "rlipsc";
-  inputs.src-polymorph-master.ref   = "master";
   inputs.src-polymorph-master.repo  = "polymorph";
   inputs.src-polymorph-master.type  = "github";
   
