@@ -11,7 +11,6 @@
   inputs.src-Polymorph-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-Polymorph-v0_1_0.owner = "rlipsc";
   inputs.src-Polymorph-v0_1_0.repo  = "polymorph";
-  inputs.src-Polymorph-v0_1_0.dir   = "";
   inputs.src-Polymorph-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

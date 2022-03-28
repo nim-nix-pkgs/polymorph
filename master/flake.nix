@@ -11,7 +11,6 @@
   inputs.src-polymorph-master.ref   = "refs/heads/master";
   inputs.src-polymorph-master.owner = "rlipsc";
   inputs.src-polymorph-master.repo  = "polymorph";
-  inputs.src-polymorph-master.dir   = "";
   inputs.src-polymorph-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
