@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -239,11 +239,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -266,11 +266,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -293,11 +293,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -320,11 +320,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -347,11 +347,11 @@
       },
       "locked": {
         "dir": "v0_2_3",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -374,11 +374,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
@@ -401,11 +401,11 @@
       },
       "locked": {
         "dir": "v0_3_1",
-        "lastModified": 1667334734,
-        "narHash": "sha256-ccNAnCAMCbna0r6WOMtFRHaN3g1wublBlFpmfg95zQQ=",
+        "lastModified": 1668748991,
+        "narHash": "sha256-bO92QB2vahfVhzTiIx9PrPG/8C/VpLlqe0W2By7uDIw=",
         "owner": "nim-nix-pkgs",
         "repo": "polymorph",
-        "rev": "eecaeb725dc905247a747f7c5e0efdd07b18a741",
+        "rev": "2039099908d9e4424b839c9cdf5910991b5ec71a",
         "type": "github"
       },
       "original": {
